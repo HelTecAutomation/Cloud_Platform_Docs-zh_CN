@@ -64,4 +64,4 @@ ____
 ==================
 
 .. |general| image:: img/10.png
-.. _general: general/index.html
+.. _general: lyhotgohfg/index.html
