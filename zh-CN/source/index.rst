@@ -58,10 +58,10 @@ ____
 ____
 
 ==================
-|44|_              
+|general|_              
 ------------------
-`44`_             
+`general`_             
 ==================
 
-.. |44| image:: img/10.png
-.. _44: esp32+arduino/index.html
+.. |general| image:: img/10.png
+.. _general: general/index.html
