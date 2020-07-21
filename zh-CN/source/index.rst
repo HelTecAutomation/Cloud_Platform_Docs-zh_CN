@@ -7,15 +7,16 @@ This is the documentation for `Heltec Automation <https://heltec.org>`_ products
 节点
 ____
    
-------------------+------------------+------------------
-|CubeCell|         |ESP32+LoRa|       |STM32+LoRa|
-------------------+------------------+------------------
-`CubeCell`        `ESP32+LoRa`        `STM32+LoRa`
-------------------+------------------+------------------
-|ESP32+Arduino|    |ESP8266+Arduino|  
-------------------+------------------+
-`ESP32+Arduino`    `ESP8266+Arduino` 
-------------------+------------------+
+==================  ==================  ==================
+|CubeCell|_         |ESP32+LoRa|_       |STM32+LoRa|_
+------------------  ------------------  ------------------
+`CubeCell`_         `ESP32+LoRa`_       `STM32+LoRa`_
+==================  ==================  ==================
+==================  ==================  
+|ESP32+Arduino|_    |ESP8266+Arduino|_    
+------------------  ------------------  
+`ESP32+Arduino`_    `ESP8266+Arduino`_  
+==================  ==================  
 
 .. |CubeCell| image:: img/01.png
 .. _CubeCell: cubecell/index.html
@@ -32,8 +33,7 @@ ____
 .. |ESP8266+Arduino| image:: img/05.png
 .. _ESP8266+Arduino: esp8266+arduino/index.html
 
-.. |General Docs| image:: img/06.png
-.. _General Docs: general/index.html
+
 
 网关
 ____
