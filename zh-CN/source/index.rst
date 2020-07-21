@@ -11,13 +11,11 @@ ____
 |CubeCell|_         |ESP32+LoRa|_       |STM32+LoRa|_
 ------------------  ------------------  ------------------
 `CubeCell`_         `ESP32+LoRa`_       `STM32+LoRa`_
+------------------  ------------------  ------------------
+|ESP32+Arduino|_    |ESP8266+Arduino|_    
+------------------  ------------------  ------------------ 
+`ESP32+Arduino`_    `ESP8266+Arduino`_  
 ==================  ==================  ==================
-
-\ ================== 
-\ |ESP32+Arduino|    
-\ ------------------  
-\ `ESP32+Arduino`  
-\ ==================  
 
 .. |CubeCell| image:: img/01.png
 .. _CubeCell: cubecell/index.html
@@ -30,15 +28,6 @@ ____
 
 .. |ESP32+Arduino| image:: img/04.png
 .. _ESP32+Arduino: esp32+arduino/index.html
-
-网关
-____
-
-------------------  
-|ESP8266+Arduino|_    
-------------------  
-`ESP8266+Arduino`_  
------------------- 
 
 .. |ESP8266+Arduino| image:: img/05.png
 .. _ESP8266+Arduino: esp8266+arduino/index.html
