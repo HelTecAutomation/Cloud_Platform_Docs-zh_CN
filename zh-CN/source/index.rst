@@ -1,8 +1,8 @@
 Heltec Automation Cloud Server
 ==============================
-`简体中文 <https://heltec-automation.readthedocs.io/zh_CN/latest/index.html>`_
+`English <>`_
 
-This is the documentation for `Heltec Automation <https://heltec.org>`_ products.
+This is the documentation for `Heltec Automation Cloud Server <http://cloud.heltec.org/>`_.
    
 
 .. toctree::
