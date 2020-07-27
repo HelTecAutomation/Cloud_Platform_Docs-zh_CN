@@ -10,7 +10,7 @@ Cloud Server 是一个简单且功能齐全的LoRa云服务器，本页面展示
 
 ### 登录/注册
 
-打开 ``浏览器`` 输入网址 [http://cloud.heltec.org](http://cloud.heltc.org)，你将会看到以下界面，点击 ``Register/Login`` 。
+打开 ``浏览器`` 输入网址 [http://cloud.heltec.org](http://cloud.heltec.org)，你将会看到以下界面，点击 ``Register/Login`` 。
 
 ![](img/quick_start/01.png)
 
