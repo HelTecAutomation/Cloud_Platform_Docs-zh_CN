@@ -1,8 +1,8 @@
-Heltec Automation Cloud Server
-==============================
+Heltec Automation 云服务器
+==========================
 `English <>`_
 
-This is the documentation for `Heltec Automation Cloud Server <http://cloud.heltec.org/>`_.
+这是 `Heltec Automation 云服务器 <http://cloud.heltec.org/>`_ 的文档.
    
 
 .. toctree::
