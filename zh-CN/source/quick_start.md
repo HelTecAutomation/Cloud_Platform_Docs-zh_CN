@@ -1,6 +1,6 @@
 # Cloud Server 快速入门
 
-[English](https://heltec-automation-docs.readthedocs.io/en/latest/quick_start.html)
+[English](https://cloud-platform-docs.readthedocs.io/en/latest/quick_start.html)
 
 ## 摘要
 
