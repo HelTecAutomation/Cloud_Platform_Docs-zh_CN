@@ -6,9 +6,13 @@
 
 Cloud Server 是一个简单且功能齐全的LoRa云服务器，本页面展示了如何快速使用这个云服务器。
 
-## 创建基础配置
+```Tip:: 官网账号，论坛账号，云服务器账号，激活后均能登录
 
-### 登录/注册
+```
+
+
+
+## 登录/注册
 
 打开 ``浏览器`` 输入网址 [http://cloud.heltec.org](http://cloud.heltec.org)，你将会看到以下界面，点击 ``Register/Login`` 。
 
@@ -20,13 +24,13 @@ Cloud Server 是一个简单且功能齐全的LoRa云服务器，本页面展示
 
 ![](./img/quick_start/03.png)
 
-### 选择频段
+## 选择频段
 
 进入平台后，选择你所需要的区域频段，如 ``AS923`` 。
 
 ![](./img/quick_start/04.png)
 
-### 创建网关
+## 创建网关
 
 依次点击 ``Gateways``->``GatewaysCreate`` 后，在出现的界面中选择 ``GENERAL`` 菜单，填写相应的信息，下面三个选项为必填项，其余选项为可选项，最后滑动到页面最下方，点击 ``CREATE GATEWAY`` 完成网关创建。如下示例。
 
@@ -38,7 +42,7 @@ Cloud Server 是一个简单且功能齐全的LoRa云服务器，本页面展示
 
 
 
-### 创建应用
+## 创建应用
 
 依次点击 ``Apps``->``AppsCreate`` 后，在出现的界面中填写相应的信息，下面两个选项为必填项，其余选项为可选项，点击 ``CREATE APPLICATION`` 完成创建。如下示例。
 
@@ -46,7 +50,7 @@ Cloud Server 是一个简单且功能齐全的LoRa云服务器，本页面展示
 
 ![](./img/quick_start/11.png)
 
-### 创建节点
+## 创建节点
 
 依次点击 ``Apps``->``AppsList`` 后，会看到之前我们创建好的应用（示例中的``AppName``），点击它。
 
