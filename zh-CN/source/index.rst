@@ -2,7 +2,7 @@ Heltec Automation 云服务器
 ==========================
 `English <https://cloud-platform-docs.readthedocs.io/en/latest>`_
 
-这是 `Heltec Automation 云服务器 <http://cloud.heltec.org/>`_ 的文档.
+This is the documentation for `Heltec Cloud Server <https://cloud.heltec.org>`_ products.
    
 
 .. toctree::
@@ -10,4 +10,5 @@ Heltec Automation 云服务器
    :caption: Cloud Server
    
    快速入门 <quick_start>
+   MQTT订阅 <MQTTsubscribe/index>
    
