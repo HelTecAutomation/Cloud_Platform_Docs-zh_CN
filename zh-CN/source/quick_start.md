@@ -23,6 +23,9 @@ Cloud Server 是一个简单且功能齐全的LoRa云服务器，本页面展示
 ![](./img/quick_start/02.png)
 
 ![](./img/quick_start/03.png)
+```Tip:: 如果注册成功后依然无法登录，可以尝试退出账号重新登录
+
+```
 
 ## 选择频段
 
@@ -71,3 +74,7 @@ Cloud Server 是一个简单且功能齐全的LoRa云服务器，本页面展示
 根据所选择的 ``Device-profile``选项，填写你所需要的 ``Key`` 或者 ``LoRa 协议`` 等信息。例如，本次示例选择 ``Device-profile`` 为 ``OTAA/CLASS-A`` 如下所示：
 
 ![](./img/quick_start/17.png)
+
+```
+
+```
