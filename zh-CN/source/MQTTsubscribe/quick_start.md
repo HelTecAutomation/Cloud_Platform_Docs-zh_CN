@@ -18,7 +18,7 @@ MQTT是一种基于TCP/IP的发布/预订协议，可以连接大量的远程传
 
 ![](./img/01.png)
 
-输入下面所需要的配置信息，其中 ``Broker Address`` 即为 [所选频段](https://cloud-platform-docs-zh-cn.readthedocs.io/zh/latest/quick_start.html#id3) 所对应的服务器地址，端口号默认 ``1883`` ，选择 ``User Credentials`` 输入[账号和密码](https://cloud-platform-docs-zh-cn.readthedocs.io/zh/latest/quick_start.html#id2)，点击 ``OK`` （**注：账号目前只支持用户名格式，不支持邮箱格式**）。
+输入下面所需要的配置信息，其中 ``Broker Address`` 即为 [所选频段](https://cloud-platform-docs-zh-cn.readthedocs.io/zh/latest/quick_start.html#id3) 所对应的服务器地址，端口号默认 ``1883`` ，选择 ``User Credentials`` 输入[账号和密码](https://cloud-platform-docs-zh-cn.readthedocs.io/zh/latest/quick_start.html#id2)，点击 ``OK`` 。
 
 ![](./img/02.png)
 
