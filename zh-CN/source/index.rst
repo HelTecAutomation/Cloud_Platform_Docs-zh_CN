@@ -1,12 +1,12 @@
-Heltec Automation 云服务器
-==========================
+Heltec Automation 云服务器文档页
+================================
 `English <https://cloud-platform-docs.readthedocs.io/en/latest>`_
 
-This is the documentation for `Heltec Cloud Server <https://cloud.heltec.org>`_ products.
+This is the documentation for `Heltec Cloud Server <https://cloud.heltec.org>`_ .
    
 
 .. toctree::
-   :hidden:
+   :maxdepth: 2
    :caption: Cloud Server
    
    快速入门 <quick_start>
